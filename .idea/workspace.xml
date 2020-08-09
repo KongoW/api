@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="340df8ae-c2e8-45fb-a4f6-615a76e02bd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1fZw7olsnENKLlgfxVrhx53tGSD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="340df8ae-c2e8-45fb-a4f6-615a76e02bd0" name="Default Changelist" comment="" />
+      <created>1596438757676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596438757676</updated>
+      <workItem from="1596438758842" duration="1089000" />
+      <workItem from="1596489430586" duration="833000" />
+      <workItem from="1596491045060" duration="4037000" />
+      <workItem from="1596496967285" duration="5012000" />
+      <workItem from="1596579094535" duration="3721000" />
+      <workItem from="1596615138627" duration="1681000" />
+      <workItem from="1596662208700" duration="6024000" />
+      <workItem from="1596786323598" duration="1610000" />
+      <workItem from="1596780770827" duration="1371000" />
+      <workItem from="1596782906419" duration="9137000" />
+      <workItem from="1596830964006" duration="2558000" />
+      <workItem from="1596919822718" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596498123307">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596498123307" />
+    <state x="739" y="250" width="494" height="622" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596662332522">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="739" y="250" width="494" height="622" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596662332522" />
+    <state x="774" y="300" width="424" height="520" key="FileChooserDialogImpl" timestamp="1596919869801">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="774" y="300" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1596919869801" />
+    <state x="686" y="273" width="657" height="568" key="NewPhpClassDialog" timestamp="1596790601394">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="686" y="273" width="657" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596790601394" />
+    <state x="418" y="272" width="1022" height="737" key="SettingsEditor" timestamp="1596439107732">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="418" y="272" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1596439107732" />
+    <state x="671" y="516" width="626" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1596439033244">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="671" y="516" width="626" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596439033244" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1596665413133">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1596665413133" />
+  </component>
+</project>
